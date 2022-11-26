@@ -1,4 +1,4 @@
-![MasterHead](https://i.postimg.cc/0NZTdRVn/Purple-Pink-Orange-Arcade-Pixel-Just-Chatting-Twitch-Banner.jpg)
+![MasterHead](https://i.postimg.cc/NG1nqwQf/Purple-Pink-Orange-Arcade-Pixel-Just-Chatting-Twitch-Banner.jpg)
 
 <h3 align="center">I'm a Full Stack Developer from Canada with experience in JaveScript, React, Material UI, Node.js, Express, MongoDB, and many others..</h3>
 <img align="right alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FzOvBKUUEERdNm%2Fgiphy.gif&f=1&nofb=1&ipt=615b7518c4cca77cc77085d84463b8d24394a757e336301ef0cec6fa4c6bc554&ipo=images">
