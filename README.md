@@ -1,6 +1,6 @@
 ![MasterHead](https://i.postimg.cc/1RWS6Tk0/terminal.gif)
 
-<img align="right alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FzOvBKUUEERdNm%2Fgiphy.gif&f=1&nofb=1&ipt=615b7518c4cca77cc77085d84463b8d24394a757e336301ef0cec6fa4c6bc554&ipo=images">
+<p><img align="right alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FzOvBKUUEERdNm%2Fgiphy.gif&f=1&nofb=1&ipt=615b7518c4cca77cc77085d84463b8d24394a757e336301ef0cec6fa4c6bc554&ipo=images">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgekwan&theme=monokai" alt="georgekwan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
