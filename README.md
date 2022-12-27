@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Calgary, AB 🍁
+🌍I'm based in Calgary, AB 🍁
 <br>🔭I am currently working on a React Native app that is designed to help kids improve their shot accuracy. It is a fun and interactive way for kids to practice their aim and hone their skills.<br>🧠I am currently enrolled in a full stack development boot camp at InceptionU, where I have been learning the MERN stack. I am now in the program's final phase, focusing on React Native and Firebase.<br>㊙️On the outside, I may seem like a health nut, but on the inside, I'm just a cake-loving machine. Don't let my fit appearance fool you – give me a whole cake and I'll devour it in no time.
 
 
