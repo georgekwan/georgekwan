@@ -1,6 +1,6 @@
 ## 📠 About Me:
 📍 I am based in Calgary, AB🍁
-<br>🚧 I am currently working on a React Native app that is designed to help kids improve their shot accuracy. It is a fun and interactive way for kids to practice their aim and hone their skills.<br>🧠 Presently, I am enrolled in a full stack development program at [InceptionU](https://www.inceptionu.com/) where I have been learning the MERN stack. I am now in the program's final phase, and my focus is on React Native and Firebase.<br>㊙️ On the outside, I may seem like a health nut, but on the inside, I'm just a cake-loving machine. Don't let my fit appearance fool you – give me a whole cake and I'll devour it in no time.
+<br>🚧 I am currently working on a React Native app that is designed to help young hockey players improve their shot accuracy. It is a fun and interactive way for kids to practice their aim and hone their skills.<br>🧠 Presently, I am enrolled in a full stack development program at [InceptionU](https://www.inceptionu.com/) where I have been learning the MERN stack. I am now in the program's final phase, and my focus is on React Native and Firebase.<br>㊙️ On the outside, I may seem like a health nut, but on the inside, I'm just a cake-loving machine. Don't let my fit appearance fool you – give me a whole cake and I'll devour it in no time.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/george-kwan) 
