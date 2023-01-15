@@ -25,4 +25,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=georgekwan&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=georgekwan&color=73D0FF)](https://github.com/georgekwan)
