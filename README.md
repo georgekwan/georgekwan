@@ -28,7 +28,7 @@
 
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%23FFFFFF.svg?style=flat&logo=netlify&logoColor=42C2B8)
 
-![Figma](https://img.shields.io/badge/Figma-%23EA4C1D.svg?style=flat&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%230FB0CF.svg?style=flat&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23EA4C1D.svg?style=flat&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FFFFFF.svg?style=flat&logo=Postman&logoColor=#FF6C37) ![Canva](https://img.shields.io/badge/Canva-%230FB0CF.svg?style=flat&logo=Canva&logoColor=white)
 
 ## 📊 GitHub Stats:
 
