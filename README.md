@@ -1,7 +1,7 @@
 ## 📠 About Me:
 
 📍 I am based in Calgary, AB🍁
-<br>🚧 I am currently building a cross-platform mobile app that is designed to help young hockey players improve their shot accuracy. It is a fun and interactive way for kids to practice their aim and hone their skills.
+<br>🚧 Currently I am working in collaboration with a team to build a web application utilizing the OpenAI API and Next.js that enhances the traveller's experience by reducing search time for things to do.
 <br>🧠 I've worked on cross-platform mobile apps as well as MERN stack web apps. I enjoy staying up to date on the latest technology trend.
 <br>㊙️ On the outside, I may seem like a health nut, but on the inside, I'm just a cake-loving machine. Don't let my fit appearance fool you – give me a whole cake and I'll devour it in no time.
 
