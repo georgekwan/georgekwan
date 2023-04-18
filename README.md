@@ -8,6 +8,7 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/george-kwan)
+[![Codewars](https://www.codewars.com/users/D!PPY/badges/micro)](https://www.codewars.com/users/D!PPY)
 
 ## 💻 Languages and Tools:
 
