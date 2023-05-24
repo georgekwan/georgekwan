@@ -19,7 +19,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%23F8FAFC.svg?style=flat&logo=tailwind-css&logoColor=0FB0CF)
 
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase) ![MongoDB](https://img.shields.io/badge/MongoDB-%23011E2C.svg?style=flat&logo=mongodb&logoColor=https://www.mongodb.com/e)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-333333?style=flat&logo=node.js&logoColor=519E44) ![.ENV](https://img.shields.io/badge/.ENV-%231C1E24.svg?style=flat&logo=.ENV&logoColor=23ECD53F)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-333333?style=flat&logo=node.js&logoColor=519E44) ![GraphQl](https://img.shields.io/badge/graphql-FFFFFF?style=flat&logo=graphql&logoColor=F6009B) ![.ENV](https://img.shields.io/badge/.ENV-%231C1E24.svg?style=flat&logo=.ENV&logoColor=23ECD53F)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=D63AFF)
 
 ![Next.js](https://img.shields.io/badge/Next-%23000000.svg?style=flat&logo=next.js&logoColor=white)
@@ -29,7 +29,7 @@
 
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%23FFFFFF.svg?style=flat&logo=netlify&logoColor=42C2B8)
 
-![Figma](https://img.shields.io/badge/Figma-%23EA4C1D.svg?style=flat&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FFFFFF.svg?style=flat&logo=Postman&logoColor=#FF6C37) ![Canva](https://img.shields.io/badge/Canva-%230FB0CF.svg?style=flat&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23EA4C1D.svg?style=flat&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-FFFFFF?.svg?style=flat&logo=notion&logoColor=000000) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FFFFFF.svg?style=flat&logo=Postman&logoColor=#FF6C37) ![Canva](https://img.shields.io/badge/Canva-%230FB0CF.svg?style=flat&logo=Canva&logoColor=white)
 
 ## 📊 GitHub Stats:
 
