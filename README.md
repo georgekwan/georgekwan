@@ -35,7 +35,7 @@
 
 <!-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=georgekwan)](https://github.com/georgekwan)<br/> -->
 
-![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgekwan&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<!-- ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgekwan&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 
 <!-- [![George's GitHub stats](https://github-readme-stats-i66v.vercel.app/api?username=georgekwan&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/georgekwan)<br/> -->
 
