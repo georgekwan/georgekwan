@@ -35,15 +35,15 @@
 
 <!-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=georgekwan)](https://github.com/georgekwan)<br/> -->
 
-<!-- ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgekwan&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
+![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgekwan&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 <!-- [![George's GitHub stats](https://github-readme-stats-i66v.vercel.app/api?username=georgekwan&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/georgekwan)<br/> -->
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=georgekwan&theme=ayu-mirage&hide_border=true)](https://github.com/georgekwan)<br/>
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=georgekwan&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/> -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=georgekwan&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=georgekwan&bg_color=1F2430&color=C7C8C2&line=F4CD7C&point=73D0FF&area_color=1F2430&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=georgekwan&bg_color=1F2430&color=C7C8C2&line=F4CD7C&point=73D0FF&area_color=1F2430&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)<br/>
 
 ---
 
