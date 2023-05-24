@@ -1,7 +1,7 @@
 ## 📠 About Me:
 
 📍 I am based in Calgary, AB🍁
-<br>🚧 Currently I am working in collaboration with a team to build a web application utilizing the OpenAI API and Next.js that enhances the traveller's experience by reducing search time for things to do.
+<br>🚧 Currently I am working in collaboration with a team at New Idea Machine to build a mobile application utilizing the OpenAI API that helps learner to reinforce learning material by using AI to generate questions.
 <br>🧠 I've worked on cross-platform mobile apps as well as MERN stack web apps. I enjoy staying up to date on the latest technology trend.
 <br>㊙️ On the outside, I may seem like a health nut, but on the inside, I'm just a cake-loving machine. Don't let my fit appearance fool you – give me a whole cake and I'll devour it in no time.
 
