@@ -2,7 +2,7 @@
 
 📍 I am based in Calgary, AB🍁
 <br>🚧 Currently, I am collaborating with a team at New Idea Machine to develop a mobile application to help learners reinforce learning material by generating test questions using AI.
-<br>🧠 I've worked on cross-platform mobile apps as well as MERN stack web apps. I enjoy staying up to date on the latest technology trend.
+<br>🧠 I've worked on cross-platform mobile apps as well as MERN stack web apps. I enjoy staying up to date on the latest technology trends.
 <br>㊙️ On the outside, I may seem like a health nut, but on the inside, I'm just a cake-loving machine. Don't let my fit appearance fool you – give me a whole cake and I'll devour it in no time.
 
 ## 🌐 Socials:
